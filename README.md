@@ -45,6 +45,7 @@
   - Rewards Management
   - External Services
   - Web Server and Hosting
+  - E-commerce website to buy
 </details>
 
 <details>
