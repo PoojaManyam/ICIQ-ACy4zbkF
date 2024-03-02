@@ -1,10 +1,10 @@
 # E-WASTE LOCATOR APP
 
-<details>
+
   <summary>Introduction</summary>
 
   Imagine a world where responsible e-waste disposal is not just a choice but a seamless and rewarding experience. Our project is your gateway to this reality. We've designed an innovative web app that identifies devices, locates e-waste centers, educates users, and rewards eco-conscious actions. Let's revolutionize e-waste management together.
-</details>
+
 
 <details>
   <summary>Architecture</summary>
